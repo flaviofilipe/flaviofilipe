@@ -42,4 +42,3 @@ Here are some ideas to get you started:
 
 
 [![Fkávio Filipe github stats](https://github-readme-stats.vercel.app/api?username=flaviofilipe&show_icons=true&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=flaviofilipe&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
